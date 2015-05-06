@@ -21,6 +21,7 @@ public class Sorters
       testInsertionSort();
       //testMerge();
       testMergeSort();
+      //kristy is cool 
    }
    
    /**
